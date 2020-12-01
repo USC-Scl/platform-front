@@ -17,3 +17,12 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## 项目说明
+
+### 目录说明
+- src
+-- assets 资源
+--- 
+
